@@ -1,0 +1,13 @@
+{
+    "databases": {
+        "postgres": {
+            "host": "/var/run/postgresql",
+            "database": "dbs_dev",
+            "user": "serhii",
+            "password": "123456",
+            "max_life_conns": "1s",
+            "max_idle_conns": 2,
+            "max_open_conns": 5
+        }
+    }
+}

@@ -1,0 +1,10 @@
+
+*~
+#*#
+log/*
+pkg/*
+*.tgz
+.vscode
+
+dist/bin/*
+bapi.sublime-*
